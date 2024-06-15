@@ -1,3 +1,7 @@
+#NEED TO ADD COMMENT N STUFF TO MAKE IT EASIER
+#ALSO ADD README AND OTHER NECESSSARY STUFF IDK
+
+
 import numpy as np
 from scipy.stats import norm
 import streamlit as st
