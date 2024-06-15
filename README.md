@@ -58,5 +58,5 @@ Their formulas can be seen below:
 
 ## 📝 License
 
-© 2024 [Akaash Mitsakakis-Nath](https://github.com/your-github-repo).<br />
-This project is [MIT](https://github.com/your-github-repo/LICENSE.txt) licensed.
+© 2024 [Akaash Mitsakakis-Nath](https://github.com/amitsakakis).<br />
+This project is MIT licensed.
