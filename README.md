@@ -1,22 +1,10 @@
-# Black-Scholes-Model
-
-<h1 align="center">Black-Scholes Options Pricing Calculator</h1>
-
-<p align="center">
-    <a href="https://your-streamlit-app-link">
-        <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">
-    </a>
-    <a href="https://github.com/your-github-repo/LICENSE.txt">
-       <img alt="GitHub" src="https://img.shields.io/github/license/your-github-repo">
-    </a>
-    <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
-</p>
+<h1 align="center">Black-Scholes Options Model with Greeks</h1>
 
 ## Project Description
 
 This project is a Black-Scholes Options Pricing Calculator for European Options, including graphical visualization of the Option Greeks. It is a web-hosted interactive application, hosted using [Streamlit's](https://streamlit.io) Sharing functionality.
 
-The project can be found here: [Link to Project](https://your-streamlit-app-link)
+The project can be found here: [Link to Project](https://blackscholeswithgreeks.streamlit.app)
 
 ## Black-Scholes Model
 
@@ -67,15 +55,6 @@ The Greeks include:
 Their formulas can be seen below:
 
 ![Greek Formulas](greeks.png)
-
-## Sources
-
-- Black-Scholes Model Explanation: [Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) and [Investopedia](https://www.investopedia.com/terms/b/blackscholes.asp)
-- Formula Images: [Macroption](https://www.macroption.com/black-scholes-formula/)
-
-## Issues and Suggestions
-
-If you encounter an error in the program, have suggestions for improvements, or spot any incorrect applications of financial formulas and concepts, please raise a new issue [here](https://github.com/your-github-repo/issues/new/choose).
 
 ## 📝 License
 
