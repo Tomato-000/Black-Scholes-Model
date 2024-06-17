@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a Black-Scholes Options Pricing Calculator for European Options, including graphical visualization of the Option Greeks. It is a web-hosted interactive application, hosted using [Streamlit's](https://streamlit.io) Sharing functionality.
+This project is a Black-Scholes Options Pricing model for European Options, including graphical visualization of the Option Greeks. It is a web-hosted interactive application, hosted using [Streamlit's](https://streamlit.io) Sharing functionality.
 
 The project can be found here: [Link to Project](https://blackscholeswithgreeks.streamlit.app)
 
